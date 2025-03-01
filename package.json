@@ -7,13 +7,9 @@
 		"lavalink",
 		"synthra"
 	],
-	"homepage": "https://github.com/JirayuSrisawat-Github/sakulink#readme",
-	"bugs": {
-		"url": "https://github.com/JirayuSrisawat-Github/sakulink/issues"
-	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@github.com/JirayuSrisawat-Github/sakulink.git"
+		"url": "git+ssh://git@github.com:x2saddDM/synthra.git"
 	},
 	"license": "ISC",
 	"author": "x2saddddm",
