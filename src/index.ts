@@ -23,6 +23,8 @@ export * from "./structures/Queue";
  */
 export * from "./structures/Utils";
 
+export * from "./structures/Filters";
+
 /**
  * The version of the library.
  */
